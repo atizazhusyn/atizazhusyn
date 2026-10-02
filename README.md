@@ -1,6 +1,9 @@
 # Atizaz
 
-Applied machine learning projects, written for graduate applications.
+I build applied machine learning projects and the software around them.
+Skinalyze AI classifies skin photos and keeps a follow-up record in a mobile app.
+Pakistan House Price Prediction estimates listing prices from property details.
+I am preparing applications for a master's program in this field.
 
 ## Projects
 
